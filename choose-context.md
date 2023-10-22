@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Step 1: Choose context and type of application (10 min)
+## Step 1: Choose context and type of application 
 
 In this step you can choose the context and type of the digital experience application to evaluate. This can be:
 

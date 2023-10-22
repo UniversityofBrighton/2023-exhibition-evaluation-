@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Step 2: Think of the user of this application (or use already developed user persona) (10 min)
+## Step 2: Think of the user of this application (or use already developed user persona) 
 
 In this step you will think of the user of this application (i.e., application that you have planned in previous sessions, and you aim to evaluate or application chosen from the list in step 1).
 
