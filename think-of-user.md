@@ -12,6 +12,9 @@ If you have already developed a persona through the persona building method in t
 
 This step aims to help you think about your user/s and their needs as a preparation stage for defining the essentials of your evaluation. It can also be particularly useful to identify the participants of your evaluation study.
 
+
+![Example of persona made with Hubspot Persona Tool via [https://www.hubspot.com/make-my-persona](https://www.hubspot.com/make-my-persona)](episodes/fig/maria_persona.png){alt="persona"}
+
 Now think of how your persona/s would experience the digital application. To do that, look at various aspects of the UX (user experience) and try to think of how the application addresses questions, such as the following:
 
 - How good is the provided information and media for the user/s?

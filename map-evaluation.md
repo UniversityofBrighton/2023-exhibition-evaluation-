@@ -8,6 +8,9 @@ exercises: 2
 
 In this step, you will map evaluation by using the evaluation planning tool. This can be downloaded from the Share Museums East (2020). Evaluation Toolkit for Museums. Pages 79-80. Retrieved from: [https://www.sharemuseumseast.org.uk/wp-content/uploads/2020/05/SHARE_Evaluation_Toolkit_FINAL_WEB.pdf](https://www.sharemuseumseast.org.uk/wp-content/uploads/2020/05/SHARE_Evaluation_Toolkit_FINAL_WEB.pdf) or you can use a similar template, which you can find [here](files/evaluation_plan.pdf). 
 
+![Business team having morning briefing, top view &copy; by Prostock-studio under Education License from Adobe stock ](episodes/fig/AdobeStock_317327548.jpeg){alt="people working"}
+
+
 
 The sections of the Evaluation Plan require the following information about the context of the digital experience you plan to evaluate:
 
