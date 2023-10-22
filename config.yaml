@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: '2023-exhibition-evaluation'
+title: 'Evaluation of digital heritage experiences'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-10-22'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'evaluation, exhibition, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -33,7 +33,7 @@ source: 'https://example.com/FIXME-template-source'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'K.Rodriguez@brighton.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -60,6 +60,13 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- choose-context.Rmd
+- think-of-user.Rmd
+- define-the-essentials.Rmd
+- map-evaluation.Rmd
+- define-measurable-criteria.Rmd
+- choose-methods.Rmd
+- data-analysis.Rmd
 
 # Information for Learners
 learners: 

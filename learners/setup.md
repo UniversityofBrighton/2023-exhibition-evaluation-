@@ -2,53 +2,16 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+During the tutorial we will go through the various steps to plan the evaluation of digital experiences in the GLAM context. 
 
-## Data Sets
+The following resources will be useful for this:
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
-
-## Software Setup
-
-::::::::::::::::::::::::::::::::::::::: discussion
-
-### Details
-
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
+1. [Evaluation checklist (p.32 of the document)](https://www.sharemuseumseast.org.uk/wp-content/uploads/2020/05/SHARE_Evaluation_Toolkit_FINAL_WEB.pdf) or look at the checklist as presented within this tutorial
+2. [Evaluation plan](../files/evaluation_plan.pdf) or the [Evaluation Planning Tool (p.79-80 of the document)](https://www.sharemuseumseast.org.uk/wp-content/uploads/2020/05/SHARE_Evaluation_Toolkit_FINAL_WEB.pdf)
 
 
-:::::::::::::::: solution
+The tutorial is built with [The Carpentries Workbench](https://carpentries.github.io/sandpaper-docs/), as part of the training activities of the [AHRC-funded network service on Digital Skills in Visual and Material Culture](https://www.culturedigitalskills.org). 
 
-### Linux
+![](../episodes/fig/colorlogo_centre.png){width=50% alt="logo"}
 
-Use Terminal
-
-:::::::::::::::::::::::::
 
