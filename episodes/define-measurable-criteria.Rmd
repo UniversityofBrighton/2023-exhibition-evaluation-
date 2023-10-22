@@ -12,6 +12,8 @@ In this step you will look at your objectives, as outlined in the Evaluation Pla
 
 [The Generic Social Outcomes](https://www.artscouncil.org.uk/sites/default/files/S3D29_GSO_Indicator_Bank.pdf) (GSOs) with a focus on strengthening public life, building stronger communities, and enhancing well-being.
 
+![Top view development team working with UX UI responsive design &copy; by sodawhiskey under Education License from Adobe stock](episodes/fig/AdobeStock_265337592.jpeg){alt="people working together"}
+
 In the context of **User Experience (UX)**, you might also want to evaluate certain aspects of the experience of the digital application, such as:
 
 - Utility: Is the user finding the system's functions practical and appropriate for their needs? Usability: Does the user find it straightforward and efficient to accomplish tasks with the system?

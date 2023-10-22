@@ -15,6 +15,9 @@ In this step you can choose the context and type of the digital experience appli
 You can find a [list of examples applications](https://universityofbrighton.github.io/2023-exhibition-design/more-information.html#interactive-multimedia-experiences-in-ch).
 
 
+![Five Ws and one H &copy; by Brad PIct under Education License from Adobe stock](episodes/fig/AdobeStock_176594585.jpeg){alt="questions"}
+
+
 When you choose your application, use the 5W1H method, which is helpful to gather essential information about it:
 
 -	**Who**: who is the user of the application (audiences)?

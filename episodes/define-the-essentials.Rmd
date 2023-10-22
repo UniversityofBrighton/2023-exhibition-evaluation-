@@ -45,7 +45,7 @@ You can find the questions of the checklist below:
 - How will you collect feedback from people delivering the service to your visitors?
 
 
-### Recording data	
+### Recording data	
 
 - What methods do you propose to use to record the data gathered?
 - Will these allow you to interrogate the data easily?
