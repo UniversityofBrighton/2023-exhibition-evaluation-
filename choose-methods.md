@@ -28,7 +28,7 @@ Lastly, to perform data collection, mechanisms/tools to record, store, study, pr
 
 Some of the practical details to take into account with regards to certain data collection methods are:
 
-- **Interviews** can be conducted online or face to face. Audio equipment should be used in face to face interviews and then tools to transcribe this material will be needed. Online interviews can be recorded, and some video conferencing software offers automatic transcription.
+- **Interviews** can be conducted online or face to face. Audio recording equipment should be used in face to face interviews and then tools to transcribe this material will be needed. Online interviews can be recorded, and some video conferencing software offers automatic transcription.
 - **Surveys** can be done on paper, yet a web-based survey (using tools like [LimeSurvey](https://www.limesurvey.org/), [SurveyMonkey](https://www.surveymonkey.co.uk/welcome) and [Google Forms](https://www.google.com/forms/about/)) can facilitate data collection, analysis and presentation.
 - **Observations** need a clearly designed protocol, so that researchers/staff know what to look for when observing visitor behaviours.
 
@@ -37,6 +37,7 @@ More information on observation protocols can be found here:
 
 - Family Learning in Interactive Galleries (2018). Observation Protocol. Retrieved from: [https://artmuseumfamilyspaces.files.wordpress.com/2021/08/232observationprotocol.pdf]([https://artmuseumfamilyspaces.files.wordpress.com/2021/08/232observationprotocol.pdf)
 - Linaker, L. (2018). The importance of Tracking and Observing Visitors in Cultural Institutions. Museum Whisperings. Retrieved from: [https://museumwhisperings.blog/2018/02/25/the-importance-of-tracking-and-observing-visitors-in-cultural-institutions/](https://museumwhisperings.blog/2018/02/25/the-importance-of-tracking-and-observing-visitors-in-cultural-institutions/)
+- Harknett, S.J. (n.d.). How To: Visitor Observation. Retrieved from: [https://www.museums.cam.ac.uk/blog/resources/how-to-visitor-observation/](https://www.museums.cam.ac.uk/blog/resources/how-to-visitor-observation/)
 
 
 
