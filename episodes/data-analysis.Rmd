@@ -17,7 +17,7 @@ Qualitative data on the other hand, can be more difficult to analyse. Software i
 Now with regards to the evaluation report, some general principles to follow when producing this document include:
 
 - Articulating clear statements regarding the achievement of success criteria.
-- Ensure anonymity of participants in the report.
+- Ensuring anonymity of participants in the report.
 - Utilising visual aids and percentages for better comprehension, incorporating charts, graphs, and word clouds.
 - Enhancing understanding by including images that visually represent results, ensuring proper consent from individuals depicted.
 - Integrating anonymised quotes from qualitative data.

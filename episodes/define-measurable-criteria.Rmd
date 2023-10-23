@@ -27,7 +27,7 @@ There are different ways to conduct usability testing, yet typically this includ
 
 In addition, useful data to take into account when evaluating a digital application or system are log data, automatically generated to track transactions, changes, and performance metrics. Log data include page views, click-through rates, bounce rate, session duration, error rate, scroll depth and more.
 
-More information on usability testing and the way/s that this can be conducted be found here:
+More information on usability testing and the way/s to conduct it can be found here:
 
 -	Moran, K. (2019). Usability Testing 101. Nielsen Norman Group logoNielsen Norman Group. Retrieved from: [https://www.nngroup.com/articles/usability-testing-101/](https://www.nngroup.com/articles/usability-testing-101/) 
 
