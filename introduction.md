@@ -14,9 +14,9 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Define the purpose and key apsects to include when planning the evaluation of a chosen digital/hybrid experience, i.e. inputs, aims, objectives, outputs, outcomes.
+- Define the purpose and key aspects to include when planning the evaluation of a chosen digital/hybrid experience, i.e. inputs, aims, objectives, outputs, outcomes
 
-- Identify how to move from questions and objectives to metrics and methods to be able to conduct evaluation.
+- Identify how to move from questions and objectives to metrics and methods to be able to conduct evaluation
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
