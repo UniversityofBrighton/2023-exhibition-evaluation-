@@ -8,8 +8,8 @@ exercises: 2
 
 In this step you can choose the context and type of the digital experience application to evaluate. This can be:
 
-- selected from the application examples in the list below
-- an application that you have been planning/designing through other training sessions (e.g. [Digital Exhibition Design tutorial](https://universityofbrighton.github.io/2023-exhibition-design/index.html))
+- selected from the application examples in the list below;
+- an application that you have been planning/designing through other training sessions (e.g. [Digital Exhibition Design tutorial](https://universityofbrighton.github.io/2023-exhibition-design/index.html));
 - an application of your choice.
 
 You can find a [list of examples applications](https://universityofbrighton.github.io/2023-exhibition-design/more-information.html#interactive-multimedia-experiences-in-ch).
