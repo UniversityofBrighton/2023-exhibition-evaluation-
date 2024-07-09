@@ -14,6 +14,6 @@
 "episodes/data-analysis.Rmd" "dff138aae966a1de809fee0901d06116" "site/built/data-analysis.md" "2024-07-09"
 "instructors/instructor-notes.md" "ee96030fbffae11d9d0d1748ec0aadc0" "site/built/instructor-notes.md" "2024-07-09"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2024-07-09"
-"learners/setup.md" "ffb699a250d6648f1502de54bbba0a77" "site/built/setup.md" "2024-07-09"
+"learners/setup.md" "064458ef3a2b3c6d32f98edb95d05cf0" "site/built/setup.md" "2024-07-09"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-07-09"
 "renv/profiles/lesson-requirements/renv.lock" "7d711c526ece4f7c663cc4db717aab60" "site/built/renv.lock" "2024-07-09"
